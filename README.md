@@ -1,35 +1,28 @@
-# Atari Pong - Avance de Proyecto
+Atari Pong
+Estudiante
 
-## Descripción
+Luis Riera
 
-Este proyecto consiste en el desarrollo del videojuego Atari Pong utilizando Python y la biblioteca Pygame.
+Fecha
 
-## Funcionalidades implementadas
+Junio 2026
 
-* Creación de ventana gráfica.
-* Implementación de la pelota.
-* Movimiento automático de la pelota.
-* Rebotes en los límites superior e inferior.
-* Sistema básico de puntuación.
-* Visualización del marcador.
-* Implementación de dos raquetas.
-* Control de velocidad mediante FPS.
+Objetivo del sistema
 
-## Conceptos de programación utilizados
+Desarrollar una versión funcional del clásico videojuego Atari Pong utilizando Python y la librería Pygame, aplicando estructuras lógicas, estructuras de datos y buenas prácticas de programación.
 
-* Variables.
-* Condicionales (if).
-* Ciclos (while).
-* Eventos.
-* Coordenadas en pantalla.
-* Programación orientada a eventos con Pygame.
+Funcionalidades
+Movimiento de dos jugadores.
+Colisión de la pelota con las raquetas.
+Rebote en los bordes superior e inferior.
+Sistema de puntuación.
+Reinicio automático de la pelota después de cada punto.
+Dirección aleatoria de la pelota en cada saque.
+Condición de victoria al alcanzar 15 puntos.
+Tecnologías utilizadas
+Python
+Pygame
+GitHub
+Descripción
 
-## Tecnologías utilizadas
-
-* Python
-* Pygame
-* GitHub
-
-## Estado actual
-
-Avance funcional del videojuego Pong desarrollado como parte del proyecto de Lógica de Programación.
+Este proyecto consiste en la implementación del videojuego clásico Atari Pong. Durante el desarrollo se aplicaron conceptos de programación como variables, condicionales, listas, tuplas, funciones de la librería Pygame y estructuras de control para construir un sistema funcional y organizado.
