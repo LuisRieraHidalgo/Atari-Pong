@@ -11,7 +11,7 @@ Objetivo del sistema
 
 Desarrollar una versión funcional del clásico videojuego Atari Pong utilizando Python y la librería Pygame, aplicando estructuras lógicas, estructuras de datos y buenas prácticas de programación.
 
-Funcionalidades
+Funcionalidades:
 Movimiento de dos jugadores.
 Colisión de la pelota con las raquetas.
 Rebote en los bordes superior e inferior.
